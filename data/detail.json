@@ -1,0 +1,19 @@
+{
+    "detail":[
+        {
+            "id":1,
+            "name":"Gildan Adult Heavy Cotton Long Sleeve T-Shirt, Style G5400, 2-Pack",
+            "company":"Wish Company",
+            "country":"Europe",
+            "category":"Men Clothing",
+            "image": "https://m.media-amazon.com/images/I/61aGgVBHTAL._AC_SX522_.jpg",
+            "price":500,
+            "delivered":"Free",
+            "description":"Solids: 100% Cotton; Sport Grey: 90% Cotton, 10% Polyester; Graphite Heather: 50% Cotton, 50% Polyester Imported Pull On closure Machine Wash Classic fit for loose comfort Versatile mid-weight fabric for year-round wear Rib cuffs Non-topstitched, classic width, rib collar Tear away label for customizable comfort Screen printing, embroidery, DTG, iron-on transfers, bleaching and tie dye",
+            "color":"['red','blue','white','black']",
+            "feedback":"[]",
+            "size":"['S','M','L','XL','2XL']",
+            "thumb":"['https://m.media-amazon.com/images/I/61NpFalchuL._AC_SX522_.jpg','https://m.media-amazon.com/images/I/71BIBIT8PRL._AC_SX522_.jpg','https://m.media-amazon.com/images/I/61aGgVBHTAL._AC_SX522_.jpg','https://m.media-amazon.com/images/I/61OX0HTY1iL._AC_SX522_.jpg']"
+        }
+    ]
+}

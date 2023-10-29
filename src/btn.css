@@ -1,0 +1,35 @@
+.test{
+    border: 2px solid rgb(219, 42, 219);
+}
+.test:hover{
+    box-shadow: 5px 3px 10px rgb(219, 42, 219);
+}
+.detail:hover{
+    color: teal;
+}
+/* .heart:active{
+    background-color: violet;
+} */
+.area{
+    border: 10px solid transparent;
+    border-image: url("https://images.template.net/104147/construction-page-border-z0t3a.jpeg") 30 round;
+    /* border-image: url("https://w7.pngwing.com/pngs/736/151/png-transparent-poster-shopping-cart-discounts-and-allowances-international-workers-day-green-leaf-shopping-cart-borders-border-leaf-text.png") 60 round; */
+    /* border-image: url("https://i.pinimg.com/736x/95/58/e1/9558e13cbc137affa176c7ae5b68e9de.jpg") 30 round; */
+}
+.area1{
+    border: 10px solid transparent;
+    border-image: url("https://marketplace.canva.com/EAFNN96XJ6c/1/0/566w/canva-blue-%26-pink-illustrated-to-beach-page-border-uye6taXa8bo.jpg") 30 round;
+}
+.area3{
+    border: 5px solid transparent;
+    border-image: url("https://marketplace.canva.com/EAE9vJagDA8/1/0/283w/canva-pink-green-watercolor-paper-border-B2DElCgL7hw.jpg") 30 round;
+}
+.area4{
+   
+    border: 5px solid transparent;
+    border-image: url(" https://i.pinimg.com/474x/26/bb/35/26bb35b057d70d34b277fd9121dd6129.jpg") 30 round;
+}
+.hoo:hover{
+    box-shadow: 5px 3px 30px rgb(139, 127, 139);
+    /* filter: drop-shadow(20px 5px 20px #4444dd); */
+}
