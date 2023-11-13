@@ -11,7 +11,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 
 const Detail = () => {
-  const { id } = useParams();
+  const { id } = useParams(); 
   const { data: carts } = useGetInfoQuery();
   console.log(carts);
   const [Products, SetProducts] = useState({});

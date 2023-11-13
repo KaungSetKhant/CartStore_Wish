@@ -50,7 +50,7 @@ const ProductCart = (props) => {
     <>
       <div data-aos="zoom-in" className=" w-72 bg-white p-3 rounded area">
         <img
-          src={image}
+          src={image}   
           className=" max-w[100%] h-[150px] mx-auto rounded mb-3"
           alt=""
         />
